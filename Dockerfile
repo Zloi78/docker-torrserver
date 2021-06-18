@@ -1,7 +1,7 @@
 FROM ubuntu:20.10
 MAINTAINER Anton Kiselev
 
-ENV TS_VERSION=MatriX.98
+ENV TS_VERSION=MatriX.99
 ENV TZ=Europe/Moscow
 
 EXPOSE 8090:8090
